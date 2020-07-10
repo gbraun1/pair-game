@@ -1,0 +1,10 @@
+C:\Users\gmbra\source\repos\ProgramPair_Madlib\MadLib_Console\obj\Debug\MadLib_Console.csprojAssemblyReference.cache
+C:\Users\gmbra\source\repos\ProgramPair_Madlib\MadLib_Console\obj\Debug\MadLib_Console.csproj.CoreCompileInputs.cache
+C:\Users\gmbra\source\repos\ProgramPair_Madlib\MadLib_Console\bin\Debug\MadLib_Console.exe.config
+C:\Users\gmbra\source\repos\ProgramPair_Madlib\MadLib_Console\bin\Debug\MadLib_Console.exe
+C:\Users\gmbra\source\repos\ProgramPair_Madlib\MadLib_Console\bin\Debug\MadLib_Console.pdb
+C:\Users\gmbra\source\repos\ProgramPair_Madlib\MadLib_Console\bin\Debug\Words.dll
+C:\Users\gmbra\source\repos\ProgramPair_Madlib\MadLib_Console\bin\Debug\Words.pdb
+C:\Users\gmbra\source\repos\ProgramPair_Madlib\MadLib_Console\obj\Debug\MadLib_Console.csproj.CopyComplete
+C:\Users\gmbra\source\repos\ProgramPair_Madlib\MadLib_Console\obj\Debug\MadLib_Console.exe
+C:\Users\gmbra\source\repos\ProgramPair_Madlib\MadLib_Console\obj\Debug\MadLib_Console.pdb

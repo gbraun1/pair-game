@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadLib_Console", "MadLib_Console\MadLib_Console.csproj", "{DA90E94C-4DCB-4D60-9B10-8E6773E5843F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Words", "Words\Words.csproj", "{70D67F6F-7B32-4A52-80A0-755CAC5B75B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA90E94C-4DCB-4D60-9B10-8E6773E5843F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA90E94C-4DCB-4D60-9B10-8E6773E5843F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA90E94C-4DCB-4D60-9B10-8E6773E5843F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA90E94C-4DCB-4D60-9B10-8E6773E5843F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D67F6F-7B32-4A52-80A0-755CAC5B75B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D67F6F-7B32-4A52-80A0-755CAC5B75B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D67F6F-7B32-4A52-80A0-755CAC5B75B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D67F6F-7B32-4A52-80A0-755CAC5B75B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {090BC8F9-C9BF-4AC0-AED9-9A53CF74EE30}
+	EndGlobalSection
+EndGlobal
